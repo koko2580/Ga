@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NEXORA X</string>
+    <string name="tagline">Native Android Game Booster</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_boost">Boost</string>
+    <string name="nav_network">Network</string>
+    <string name="nav_settings">Settings</string>
+</resources>

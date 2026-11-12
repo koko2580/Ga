@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA X",
+  "description": "Native Android Game Booster with real device telemetry, game launcher library, authentic performance optimization, and network ping tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
